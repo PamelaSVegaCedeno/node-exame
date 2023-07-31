@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PamelaSVegaCedeno/node-exame/issues"
   },
-  "homepage": "https://github.com/PamelaSVegaCedeno/node-exame#readme"
+  "homepage": "https://github.com/PamelaSVegaCedeno/node-exame#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
