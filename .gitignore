@@ -1,0 +1,5 @@
+# Ignorar cualquier archivo o carpeta que NO sea src, package.json, package-lock.json
+*
+!src/
+!package.json
+!package-lock.json
